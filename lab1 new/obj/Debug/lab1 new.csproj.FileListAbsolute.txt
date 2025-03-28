@@ -1,0 +1,10 @@
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1 new.csproj.AssemblyReference.cache
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1_new.Form1.resources
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1_new.Properties.Resources.resources
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1 new.csproj.GenerateResource.cache
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1 new.csproj.CoreCompileInputs.cache
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\bin\Debug\lab1 new.exe.config
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\bin\Debug\lab1 new.exe
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\bin\Debug\lab1 new.pdb
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1 new.exe
+C:\Файли навчання\ООП\lab 1 new\lab1 new\lab1 new\obj\Debug\lab1 new.pdb
